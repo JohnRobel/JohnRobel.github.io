@@ -1,8 +1,9 @@
 excerpt_separator: ""
 pygments: true
 markdown: kramdown
-url: http://JohnRobel.github.io
-title: John Robel
+url: http://blog.robel.net
+title: John Robel's Blog
+email: blog@robel.net
 tagline: A log of everyday life
 description: My awesome new site
 paginate: 5
